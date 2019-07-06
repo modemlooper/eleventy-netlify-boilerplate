@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: modemlooper/eleventy-netlify-boilerplate
   branch: master # Branch to update (optional; defaults to master)
 
